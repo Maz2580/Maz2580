@@ -16,12 +16,11 @@
   <a href="https://maz2580.github.io/mazdakgh.github.io/">
     <img src="https://img.shields.io/badge/Portfolio-e94560?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=Maz2580&style=for-the-badge&color=0f3460" alt="Profile Views"/>
 </div>
 
 <br/>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="28" /> About Me
+## 👨‍💻 About Me
 
 ```yaml
 name: Mazdak Ghasemi
@@ -44,7 +43,7 @@ passion: "Building intelligent systems that make spatial data accessible and act
 
 <br/>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" alt="Rocket" width="28" /> Flagship Project: UMAMI
+## 🚀 Flagship Project: UMAMI
 
 <div align="center">
 
@@ -62,7 +61,7 @@ An enterprise GeoAI platform enabling **natural language queries** over spatial 
 - 🗄️ PostGIS natural language querying  
 - 📊 200+ queries processed weekly
 - 🌐 CesiumJS 3D visualization
-- ☁️ Google Earth Engine integration
+- 🌍 Google Earth Engine integration
 
 </td>
 <td width="40%">
@@ -93,7 +92,7 @@ An enterprise GeoAI platform enabling **natural language queries** over spatial 
 
 <br/>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Trophy.png" alt="Trophy" width="28" /> Impact & Achievements
+## 🏆 Impact & Achievements
 
 <div align="center">
 
@@ -108,16 +107,16 @@ An enterprise GeoAI platform enabling **natural language queries** over spatial 
 
 <br/>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="28" /> Tech Stack
+## 🛠️ Tech Stack
 
 <div align="center">
 
 ### 🗺️ GIS & Spatial
-![ArcGIS](https://img.shields.io/badge/ArcGIS_Enterprise-2C7AC3?style=for-the-badge&logo=arcgis&logoColor=white)
+![ArcGIS](https://img.shields.io/badge/ArcGIS_Enterprise-2C7AC3?style=for-the-badge&logo=esri&logoColor=white)
 ![QGIS](https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white)
 ![PostGIS](https://img.shields.io/badge/PostGIS-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![FME](https://img.shields.io/badge/FME-1E3A5F?style=for-the-badge&logoColor=white)
-![Google Earth Engine](https://img.shields.io/badge/Earth_Engine-4285F4?style=for-the-badge&logo=google-earth&logoColor=white)
+![Earth Engine](https://img.shields.io/badge/Google_Earth_Engine-34A853?style=for-the-badge&logo=google&logoColor=white)
 
 ### 💻 Development
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -148,7 +147,7 @@ An enterprise GeoAI platform enabling **natural language queries** over spatial 
 
 <br/>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" alt="Briefcase" width="28" /> Featured Projects
+## 💼 Featured Projects
 
 <div align="center">
 
@@ -207,7 +206,7 @@ Mobile GIS for flood/fire damage assessment
 
 <br/>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" alt="Graduation" width="28" /> Certifications
+## 🎓 Certifications
 
 <div align="center">
 
@@ -216,30 +215,23 @@ Mobile GIS for flood/fire damage assessment
 <img src="https://img.shields.io/badge/Google-Generative_AI_Leader-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
 <img src="https://img.shields.io/badge/Google-Project_Management-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
 <img src="https://img.shields.io/badge/Safe_Software-FME_Advanced-1E3A5F?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Esri-40+_Certifications-2C7AC3?style=for-the-badge&logo=arcgis&logoColor=white"/>
+<img src="https://img.shields.io/badge/Esri-40+_Certifications-2C7AC3?style=for-the-badge&logo=esri&logoColor=white"/>
 
 </div>
 
 <br/>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Stats" width="28" /> GitHub Analytics
+## 📊 GitHub Activity
 
 <div align="center">
   
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Maz2580&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=e94560&icon_color=e94560&text_color=c9d1d9" alt="GitHub Stats"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Maz2580&theme=tokyonight&hide_border=true&background=0D1117&ring=e94560&fire=e94560&currStreakLabel=e94560" alt="GitHub Streak"/>
-
-</div>
-
-<div align="center">
-  
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maz2580&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=e94560&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maz2580&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=e94560&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
 
 </div>
 
 <br/>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="28" /> Let's Connect
+## 🤝 Let's Connect
 
 <div align="center">
 
