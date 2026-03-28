@@ -1,8 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=230&section=header&text=Mazdak%20Ghasemi&fontSize=50&fontColor=e94560&animation=fadeIn&fontAlignY=35&desc=GIS%20Developer%20%7C%20Spatial%20Data%20Engineer%20%7C%20GeoAI%20Specialist&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=230&section=header&text=Mazdak%20Ghasemi&fontSize=50&fontColor=e94560&animation=fadeIn&fontAlignY=35&desc=Spatial%20Data%20Engineer%20%7C%20GeoAI%20Specialist%20%7C%20Platform%20Builder&descAlignY=55&descSize=18" width="100%"/>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=E94560&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Building+Enterprise+GeoAI+Platforms;Multi-Agent+Swarm+%7C+MCP+Servers+%7C+Visual+Workflows;Urban+Planning+%7C+Land+Records+%7C+IoT+Monitoring)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=E94560&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Building+AI-Powered+Geospatial+Platforms;From+Raw+Data+to+Production+Deployment;3+Live+Platforms+%7C+Open+Source+on+PyPI)](https://git.io/typing-svg)
 
 </div>
 
@@ -13,14 +13,17 @@
   <a href="mailto:Mazdak.gh1995@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://maz2580.github.io/mazdakgh.github.io/">
+  <a href="https://mazdakghgithubio.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-e94560?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://pypi.org/project/geospark-ai/">
+    <img src="https://img.shields.io/badge/PyPI-geospark--ai-3775A9?style=for-the-badge&logo=pypi&logoColor=white" alt="PyPI"/>
   </a>
 </div>
 
 <br/>
 
-## 👨‍💻 About Me
+## About Me
 
 ```yaml
 name: Mazdak Ghasemi
@@ -29,70 +32,48 @@ current_roles:
   - title: GIS Officer
     organization: Greater Shepparton Council
     focus: Enterprise GIS & Cadastral Automation
-  - title: Data Engineer  
+  - title: Data Engineer
     organization: Centre for Spatial Data Infrastructures (CSDILA)
-    focus: GeoAI Platforms & Research
+    focus: GeoAI Platforms & Spatial Data Engineering
 
 education:
   degree: Master of Spatial Engineering
   university: University of Melbourne
-  capstone: "Digital Twin with IoT for Real-time Environmental Monitoring"
 
-passion: "Building intelligent systems that make spatial data accessible and actionable"
+what_i_do: |
+  Every project starts from an idea and raw data — satellite imagery, census records,
+  transit feeds, sensor streams. I wrangle it, model it, and ship it as platforms,
+  CLIs, and APIs that real users depend on.
 ```
 
 <br/>
 
-## 🚀 Flagship Project: UMAMI v2.7.0
+## Live Platforms
 
 <div align="center">
 
 <table>
 <tr>
-<td width="60%" valign="top">
-
-### 🧠 **U**niversity of **M**elbourne **A**I for **M**apping & **I**nsights
-
-An **enterprise-grade GeoAI platform** with multi-agent swarm intelligence, MCP server management, and visual workflow orchestration.
-
-**Platform Capabilities:**
-- 🤖 **6-Agent Swarm** with Ant Colony Optimization (Spatial Analyst, Data Validator, GIS Troubleshooter, Innovation Specialist, Performance Optimizer, QA)
-- 🔌 **11+ MCP Servers** (GIS-MCP with 89 functions, PostGIS, GitHub, GDAL, OSM, Geocode, Weather)
-- 🔄 **MCP Flows** - Visual workflow editor with 100+ node types
-- 🌐 **CesiumJS 3D** globe visualization & pipeline analysis
-- 🌍 **Google Earth Engine** with AI-generated code
-- 📡 **IoT Sensor Dashboard** - Real-time MQTT environmental monitoring
-- 🔍 **RAG Service** - Vector embeddings for semantic search
-- 🗄️ **Natural Language → PostGIS** query translation
-
-**Live:** [geollm.idigitaltwin.org/UMAMI](https://geollm.idigitaltwin.org/UMAMI)
-
+<td width="33%" align="center">
+<a href="https://terrascout.app"><img src="https://img.shields.io/badge/LIVE-Terrascout-00C853?style=for-the-badge&labelColor=1a1a2e"/></a>
+<br/><b>Geospatial Data Scoping</b>
+<br/><sub>12 providers · 14 sensors · 5 AI agents</sub>
+<br/><sub>CLI + MCP Server + REST API</sub>
+<br/><sub>217 tests · 80/20 deterministic/LLM</sub>
 </td>
-<td width="40%" valign="top">
-
-```
-┌─────────────────────────┐
-│   UMAMI ARCHITECTURE    │
-├─────────────────────────┤
-│  SWARM INTELLIGENCE     │
-│  ├─ Spatial Analyst     │
-│  ├─ Data Validator      │
-│  ├─ GIS Troubleshooter  │
-│  ├─ Innovation Agent    │
-│  ├─ Performance Opt.    │
-│  └─ Quality Assurance   │
-├─────────────────────────┤
-│  MCP SERVER LAYER       │
-│  11+ Dynamic AI Tools   │
-├─────────────────────────┤
-│  VISUAL WORKFLOWS       │
-│  MCP Flows + n8n        │
-├─────────────────────────┤
-│  DATA LAYER             │
-│  PostGIS│GEE│IoT│RAG    │
-└─────────────────────────┘
-```
-
+<td width="33%" align="center">
+<a href="https://urbanmind.terrascout.app"><img src="https://img.shields.io/badge/LIVE-UrbanMind-00C853?style=for-the-badge&labelColor=1a1a2e"/></a>
+<br/><b>Urban Scenario Planning</b>
+<br/><sub>23 analysis models · 36+ data sources</sub>
+<br/><sub>QGIS Plugin + Web Platform</sub>
+<br/><sub>Australian-calibrated · Plan Melbourne</sub>
+</td>
+<td width="33%" align="center">
+<a href="https://geollm.idigitaltwin.org/TEST-UMAMI/"><img src="https://img.shields.io/badge/LIVE-UMAMI-00C853?style=for-the-badge&labelColor=1a1a2e"/></a>
+<br/><b>AI for Mapping & Insights</b>
+<br/><sub>Natural language → spatial queries</sub>
+<br/><sub>200+ queries/week · 90% accuracy</sub>
+<br/><sub>University of Melbourne</sub>
 </td>
 </tr>
 </table>
@@ -101,61 +82,39 @@ An **enterprise-grade GeoAI platform** with multi-agent swarm intelligence, MCP 
 
 <br/>
 
-## 🏆 Impact & Achievements
+## Research & Impact
 
 <div align="center">
 
 <table>
 <tr>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/535-Benchmark_Questions-E91E63?style=for-the-badge&labelColor=1a1a2e"/>
+<br/><b>GeoSpark</b>
+<br/><sub>Proved LLMs fail 70%+ on</sub>
+<br/><sub>spatial reasoning tasks</sub>
+<br/><sub>Open source · PyPI · Apache 2.0</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/80%2F20-Deterministic%2FLLM-2196F3?style=for-the-badge&labelColor=1a1a2e"/>
+<br/><b>Terrascout</b>
+<br/><sub>PostGIS handles 80% of queries</sub>
+<br/><sub>LLM only when confidence < 0.7</sub>
+<br/><sub>Near-zero token costs</sub>
+</td>
 <td align="center" width="25%">
 <img src="https://img.shields.io/badge/90%25-Time_Saved-00C853?style=for-the-badge&labelColor=1a1a2e"/>
-<br/><b>M1 Processing</b>
+<br/><b>M1 Automation</b>
+<br/><sub>50,000+ property records</sub>
 <br/><sub>2 days → 2 hours</sub>
-<br/><sub>50,000+ records bi-weekly</sub>
+<br/><sub>Greater Shepparton Council</sub>
 </td>
 <td align="center" width="25%">
-<img src="https://img.shields.io/badge/339+-Database_Tables-2196F3?style=for-the-badge&labelColor=1a1a2e"/>
-<br/><b>AI Validation</b>
-<br/><sub>GPT-4 powered</sub>
-<br/><sub>InfoProd SQL Server</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/10,000+-Assessments-FF5722?style=for-the-badge&labelColor=1a1a2e"/>
+<img src="https://img.shields.io/badge/10,000+-Field_Assessments-FF5722?style=for-the-badge&labelColor=1a1a2e"/>
 <br/><b>Disaster Recovery</b>
+<br/><sub>Flood & fire response</sub>
+<br/><sub>Offline-first mobile GIS</sub>
 <br/><sub>Parks Victoria</sub>
-<br/><sub>Flood & Fire Response</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/9-Analysis_Models-9C27B0?style=for-the-badge&labelColor=1a1a2e"/>
-<br/><b>Urban Planning</b>
-<br/><sub>Australian-calibrated</sub>
-<br/><sub>Plan Melbourne & VPP</sub>
-</td>
-</tr>
-<tr>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/3-AI_Agents-E91E63?style=for-the-badge&labelColor=1a1a2e"/>
-<br/><b>Insurance Automation</b>
-<br/><sub>Satellite + Social Evidence</sub>
-<br/><sub>Auto-approval Pipeline</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/30+-MCP_Servers-5A67D8?style=for-the-badge&labelColor=1a1a2e"/>
-<br/><b>MCP Integration</b>
-<br/><sub>Visual Workflow Builder</sub>
-<br/><sub>GeoAI Analysis</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/2025-Venice_Biennale-FF9800?style=for-the-badge&labelColor=1a1a2e"/>
-<br/><b>International Feature</b>
-<br/><sub>CSDILA & Arup</sub>
-<br/><sub>Habitat Restoration</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/79+-Certifications-4CAF50?style=for-the-badge&labelColor=1a1a2e"/>
-<br/><b>Professional Dev</b>
-<br/><sub>AI, GIS, Cloud</sub>
-<br/><sub>Data Engineering</sub>
 </td>
 </tr>
 </table>
@@ -164,235 +123,162 @@ An **enterprise-grade GeoAI platform** with multi-agent swarm intelligence, MCP 
 
 <br/>
 
-## 🛠️ Tech Stack
+## Featured Projects
 
 <div align="center">
 
-### 🗺️ GIS & Spatial
-![ArcGIS](https://img.shields.io/badge/ArcGIS_Enterprise-2C7AC3?style=for-the-badge&logo=esri&logoColor=white)
-![QGIS](https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white)
-![PostGIS](https://img.shields.io/badge/PostGIS-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![FME](https://img.shields.io/badge/FME-1E3A5F?style=for-the-badge&logoColor=white)
-![Earth Engine](https://img.shields.io/badge/Google_Earth_Engine-34A853?style=for-the-badge&logo=google&logoColor=white)
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### 💻 Development
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React_18-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+### Terrascout
+**Geospatial Data Scoping Platform** · [terrascout.app](https://terrascout.app)
 
-### 🗺️ Web Mapping & 3D
-![CesiumJS](https://img.shields.io/badge/CesiumJS-6CADDF?style=for-the-badge&logoColor=white)
-![MapLibre](https://img.shields.io/badge/MapLibre_GL-396CB2?style=for-the-badge&logoColor=white)
-![OpenLayers](https://img.shields.io/badge/OpenLayers-1F6B75?style=for-the-badge&logo=openlayers&logoColor=white)
-![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=leaflet&logoColor=white)
+Describe your project in plain English, get matched satellite, LiDAR, and aerial data sources ranked by feasibility.
 
-### 🤖 AI & Multi-Agent Systems
-![OpenAI](https://img.shields.io/badge/OpenAI_GPT--4-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white)
-![Anthropic](https://img.shields.io/badge/Claude-CC785C?style=for-the-badge&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+- 80% deterministic (PostGIS) / 20% LLM fallback
+- 6 MCP tools via FastMCP · 5 AI agents
+- pip-installable CLI (Typer + Rich, 20 commands)
+- 12 providers · 14 sensors · 100+ spectral bands
+- 217 tests · FastAPI · React 19 · Docker
+
+</td>
+<td width="50%" valign="top">
+
+### UrbanMind
+**Urban Scenario Planning Toolkit** · [urbanmind.terrascout.app](https://urbanmind.terrascout.app)
+
+23 analysis models + 36+ real data sources for Australian urban planning.
+
+- ABS Census (14 dataflows) · VicMap · PTV GTFS (30K+ stops)
+- Microsoft Building Footprints (5M+) · Overture Maps
+- AI chat, analysis insights, PDF reports, policy compliance
+- QGIS plugin + web platform · deck.gl 3D
+- Smart City API · Supabase Auth · Docker
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### GeoSpark
+**Geospatial Intelligence Protocol** · [PyPI](https://pypi.org/project/geospark-ai/) · [API](https://geospark.terrascout.app/docs)
+
+Open-source protocol giving AI models ground-truth spatial reasoning.
+
+- 535 benchmark questions across 5 suites
+- LLMs score 0% on distance → GeoSpark brings it to 75%
+- GeoSpark Protocol (GSP) · MCP Server · CLI
+- Flows (DAG runner) · Spatial Knowledge Graph
+- 446 tests · Apache 2.0 · `pip install geospark-ai`
+
+</td>
+<td width="50%" valign="top">
+
+### UMAMI
+**AI for Mapping & Insights** · [Live](https://geollm.idigitaltwin.org/TEST-UMAMI/)
+
+Enterprise GeoAI platform at University of Melbourne.
+
+- Natural language → PostGIS query translation
+- Multi-agent architecture · MCP server management
+- CesiumJS 3D · Google Earth Engine integration
+- IoT sensor dashboard (MQTT real-time)
+- RAG service · 200+ queries/week · 90% accuracy
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### KSA-GRF17 WebODM Plugin
+**Drone Processing Automation** · [GitHub](https://github.com/Maz2580/ksa-grf17-webodm-plugin)
+
+Zero-config CRS for Saudi Arabia drone imagery.
+
+- Auto-detects UTM zone from EXIF GPS
+- 5 KSA zones (EPSG 9356–9360)
+- 7-parameter Helmert transformation
+- No external network calls · fully auditable
+
+</td>
+<td width="50%" valign="top">
+
+### CatastropheIQ
+**Insurance Claims Automation**
+
+3 autonomous AI agents for disaster response.
+
+- Geo Sentinel: real-time disaster detection + satellite analysis
+- Claims Verifier: auto-approval via social + satellite evidence
+- Revenue Engine: automated outreach & conversion
+- 3D Globe · FastAPI · MongoDB · React
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+## Tech Stack
+
+<div align="center">
+
+### AI & LLM Engineering
 ![MCP](https://img.shields.io/badge/MCP_Protocol-5A67D8?style=for-the-badge&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Claude-CC785C?style=for-the-badge&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logoColor=white)
 
-### 📡 IoT & Real-time
-![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white)
-![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logoColor=white)
+### Backend & Data
+![Python](https://img.shields.io/badge/Python_3.13-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![PostGIS](https://img.shields.io/badge/PostGIS-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-### ☁️ Cloud & DevOps
+### Frontend & Visualization
+![React](https://img.shields.io/badge/React_19-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![MapLibre](https://img.shields.io/badge/MapLibre_GL-396CB2?style=for-the-badge&logoColor=white)
+![CesiumJS](https://img.shields.io/badge/CesiumJS-6CADDF?style=for-the-badge&logoColor=white)
+![deck.gl](https://img.shields.io/badge/deck.gl-29BEB0?style=for-the-badge&logoColor=white)
+
+### GIS & Remote Sensing
+![ArcGIS](https://img.shields.io/badge/ArcGIS_Enterprise-2C7AC3?style=for-the-badge&logo=esri&logoColor=white)
+![QGIS](https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white)
+![FME](https://img.shields.io/badge/FME-1E3A5F?style=for-the-badge&logoColor=white)
+![Earth Engine](https://img.shields.io/badge/Earth_Engine-34A853?style=for-the-badge&logo=google&logoColor=white)
+
+### DevOps & Infrastructure
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 </div>
 
 <br/>
 
-## 💼 Featured Projects
+## Let's Connect
 
 <div align="center">
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🏙️ UrbanMind
-**Urban Scenario Planning Toolkit**
-
-Comprehensive planning platform with **9 analysis models** for Australian practice (QGIS Plugin + Web Platform)
-
-- 📊 Land Use Mix, Transport Impact, Fiscal Impact
-- 🏠 Housing Balance, Development Feasibility
-- 🌿 Green Infrastructure, Location Efficiency
-- 🇦🇺 Plan Melbourne & VPP calibrated
-- 🔧 ~16,500 lines of code | 92% complete
-
-</td>
-<td width="50%" valign="top">
-
-### 🏛️ M1 Automation System
-**Greater Shepparton Council**
-
-End-to-end Victorian Land Records (M1) processing with AI-powered validation
-
-- 🤖 GPT-4 smart validation against 339+ tables
-- 📧 Email → Download → FME → Pozi Connect
-- 🗄️ InfoProd SQL Server integration
-- 📊 Web dashboard with historical reports
-- ⚡ 2 days → 2 hours processing time
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🌪️ CatastropheIQ
-**Multi-Agent Insurance Claims Platform**
-
-AI-powered disaster response system with 3 autonomous agents for insurance claims processing
-
-- 🛰️ **Geo Sentinel**: Real-time disaster detection & satellite analysis
-- ✅ **Claims Verifier**: Auto-approval via social + satellite evidence
-- 💰 **Revenue Engine**: Automated client outreach & trial activation
-- 🌐 3D Globe + Real-time Disaster Mapping
-- 🗄️ FastAPI + MongoDB + React
-
-</td>
-<td width="50%" valign="top">
-
-### 🌱 Sustainability Dashboard
-**University of Melbourne**
-
-Interactive dashboard tracking Sustainability Plan 2030 targets
-
-- 📊 10+ widget types (KPI, Charts, Gauges, Tables)
-- 👥 Role-based access (Admin, Editor, Viewer)
-- 🎨 Visual dashboard editor
-- 📈 Recharts + Tailwind CSS
-- 🤖 Gemini API integration planned
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 📡 IoT Environmental Monitoring
-**University of Melbourne**
-
-Real-time sensor dashboard (R Shiny → Python/UMAMI conversion)
-
-- 🌡️ CO₂, humidity, pressure, temperature
-- 📡 MQTT + PostgreSQL + PostGIS
-- 🔄 WebSocket live streaming
-- 🌐 CesiumJS 3D integration
-
-</td>
-<td width="50%" valign="top">
-
-### 🦗 Venice Biennale 2025
-**CSDILA & Arup Collaboration**
-
-Google Earth Engine analysis for Venice Lagoon habitat mapping & species restoration
-
-- 🛰️ Sentinel-2 imagery + DEM analysis
-- 🌿 NDVI, SAVI, NDMI, NDPI vegetation indices
-- 🤖 Supervised ML classification (Phragmites australis)
-- 📊 Multi-temporal change detection
-- 🗺️ GeoPandas + geemap integration
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🔌 MCP Nexus Manager
-**MCP Server Management Platform**
-
-Full-stack interface for managing 30+ Model Context Protocol servers
-
-- 🗄️ Server management (stdio, SSE, WebSocket)
-- 🔄 Visual drag-and-drop workflow builder
-- 🗺️ GeoAI analysis (detection, segmentation)
-- 🤖 Gemini AI-powered query planning
-- 📊 Health monitoring & latency tracking
-- 🔧 Custom tool builder (Python, SQL, AI)
-
-</td>
-<td width="50%" valign="top">
-
-### 🔥 Disaster Recovery GIS
-**Parks Victoria**
-
-Mobile GIS for flood/fire damage assessment
-
-- 📱 Offline-capable Field Maps
-- 🗺️ 10,000+ assessments completed
-- ⚡ Real-time data sync
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<br/>
-
-## 🎓 Certifications
-
-<div align="center">
-
-**79+ Professional Certifications** across AI, GIS, Cloud & Data Engineering
-
-<img src="https://img.shields.io/badge/Google-Generative_AI_Leader-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
-<img src="https://img.shields.io/badge/Google-Project_Management-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
-<img src="https://img.shields.io/badge/Safe_Software-FME_Advanced-1E3A5F?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Esri-40+_Certifications-2C7AC3?style=for-the-badge&logo=esri&logoColor=white"/>
-
-</div>
-
-<br/>
-
-## 📊 Core Technologies
-
-<div align="center">
-
-| Category | Technologies |
-|:---------|:-------------|
-| **Languages** | Python, TypeScript, JavaScript, SQL |
-| **Backend** | FastAPI, Flask, Node.js |
-| **Frontend** | React 18/19, Tailwind CSS, Recharts |
-| **Databases** | PostgreSQL/PostGIS, MongoDB, Redis |
-| **GIS** | QGIS, ArcGIS, FME, Google Earth Engine |
-| **AI/ML** | OpenAI GPT-4, Claude, Gemini, MCP Protocol |
-| **Real-time** | MQTT, WebSocket, Server-Sent Events |
-
-</div>
-
-<br/>
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-💡 **Open to collaborations on GeoAI platforms, urban planning tools, and spatial automation**
-
-I'm particularly interested in:
-- 🤖 Multi-agent AI systems for geospatial analysis
-- 🏙️ Urban planning & scenario modeling tools
-- 🌍 Environmental monitoring & IoT integration
-- 🔌 MCP servers & AI workflow orchestration
-- 📊 Spatial data infrastructure & automation
+I build AI-powered geospatial platforms from idea to production. Open to collaborations on spatial AI, urban planning tools, and developer platforms.
 
 <br/>
 
 <a href="https://linkedin.com/in/maz-ghasemi-2815201bb">
-  <img src="https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<a href="https://maz2580.github.io/mazdakgh.github.io/">
-  <img src="https://img.shields.io/badge/View_My_Portfolio-e94560?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio"/>
+<a href="https://mazdakghgithubio.vercel.app">
+  <img src="https://img.shields.io/badge/View_Portfolio-e94560?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio"/>
+</a>
+<a href="https://terrascout.app">
+  <img src="https://img.shields.io/badge/Try_Terrascout-00C853?style=for-the-badge&logo=satellite&logoColor=white" alt="Terrascout"/>
 </a>
 
 </div>
@@ -400,9 +286,3 @@ I'm particularly interested in:
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=120&section=footer" width="100%"/>
-
-<div align="center">
-  
-*"Transforming spatial data into strategic advantage"*
-
-</div>
